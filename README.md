@@ -8,16 +8,16 @@ Use the **Use this template** button to create a new version of this repository 
 
 _New to Git and GitHub? This free online course will get you up to speed quickly: [Getting Started with Git and GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github)_.
 
-# Replace this heading with your team/submission name
+# PeatScan
 
 - [Project summary](#project-summary)
-  - [The issue we are hoping to solve](#the-issue-we-are-hoping-to-solve)
-  - [How our technology solution can help](#how-our-technology-solution-can-help)
-  - [Our idea](#our-idea)
+  - [We are hoping to sucessfully implement Quantum-hybrid machine learning models, in particular generative AI, that can improve the resolution of peadriatic MRI images for enhanced diagnosis](#the-issue-we-are-hoping-to-solve)
+  - [Our product solution intends to aid medical professionals to be provided with resolution-enhanced MRI images, streamlining their ability to glean useful information, considering they may be dealing with sensitive timelines.](#how-our-technology-solution-can-help)
+  - [Our main approach involves tinkering with IBM's generative AI foundational models working in conjunction with a touch of quantum advantage.](#our-idea)
 - [Technology implementation](#technology-implementation)
   - [IBM watsonx product(s) used](#ibm-ai-services-used)
-  - [Other IBM technology used](#other-ibm-technology-used)
-  - [Solution architecture](#solution-architecture)
+  - [Other IBM technology used: qiskit](#other-ibm-technology-used)
+  - [Solution architecture: generative adversarial networks ](#solution-architecture)
 - [Presentation materials](#presentation-materials)
   - [Solution demo video](#solution-demo-video)
   - [Project development roadmap](#project-development-roadmap)
